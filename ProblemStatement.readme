@@ -1,0 +1,57 @@
+
+FIRST TECHNICAL ROUND
+
+Build a javascript program which will print the shape (tringle, square, rectangle)
+asked for.
+Input:
+Shape Type: “rectangle, square, triangle”
+Alignment: Left, right, center
+Draw with: Single character which will be used to draw the shape
+Rows: Number of rows in shape
+Column: Number of column in shape
+Output:
+An image of the shape on the terminal.
+Example 1:
+Input:
+Shape Type: “triangle”
+Alignment: Left
+Draw with: ‘1’
+Rows: 10
+Column: 10
+1
+11
+111
+1111
+11111
+111111
+1111111
+11111111
+111111111
+1111111111
+Example 2:
+Input:
+Shape Type: “triangle”
+Alignment: Center
+Draw with: ‘A’
+Rows: 5
+Column: 5
+A
+AAA
+AAAAA
+Example 3:
+Input:
+Shape Type: “triangle”
+Alignment: Right
+Draw with: ‘8’
+Rows: 10
+Column: 10
+8
+88
+888
+8888
+88888
+888888
+8888888
+88888888
+888888888
+8888888888
